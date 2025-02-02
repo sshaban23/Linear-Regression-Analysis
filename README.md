@@ -8,6 +8,7 @@ A2: GOALS:
 
 The goal of this analysis is to find out what factors affect how much customers pay each month. I'll use a multiple linear regression model to see how different things like age, income, and the services they use affect their monthly charges. I also want to figure out which factors are the most important and how changes in these factors change the monthly charges. I will also look at different types of customers to see who pays more or less each month. By predicting monthly charges for new or current customers, we can make sure our model is accurate and useful.
 
+
 B1: SUMMARY OF ASSUMPTIONS:
 
 The four key assumptions are: linearity, independence, homoscedasticity, and normality of residuals. 
